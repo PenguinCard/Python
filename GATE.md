@@ -1,4 +1,6 @@
-# python programming
+# GATE.py
+
+import numpy
 
 1. AND
 2. NAND
