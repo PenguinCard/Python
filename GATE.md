@@ -1,5 +1,5 @@
-# GATE.py
-
+GATE.py
+============
 import numpy
 
 1. AND
